@@ -21,7 +21,7 @@ O seguinte projeto faz parte da avaliação final da disciplina de GERE (Gerênc
 ## Divisão de Tarefas
 A equipe organizou as atividades de maneira dinâmica, dividindo as tasks de acordo com a especialidade e interesse de cada integrante. As decisões sobre a alocação das tasks foram tomadas em conjunto, mantendo uma comunicação constante para apoiar qualquer dificuldade em cada etapa.
 
-A contribuição de cada integrante pode ser observada nos commits do repositório. Vale ressaltar que, embora as tasks tenham sido divididas para fins de organização, todos participaram de cada fase do projeto, pois cada task dependia da subsequente.
+Vale ressaltar que, embora as tasks tenham sido divididas para fins de organização, todos participaram de cada fase do projeto, pois cada task dependia da subsequente.
 
 ## Desenvolvimento
 ### Planejamento da Rede
